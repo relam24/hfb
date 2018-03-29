@@ -6,6 +6,8 @@ body {
   font-family: Osaka;
   background-color: ghostwhite;
   color: inherit;
+  background-color: black;
+  color: white;
 }
 
 h2, h3, h5 {
